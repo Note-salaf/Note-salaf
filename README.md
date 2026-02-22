@@ -11,6 +11,3 @@ Sou estudante de Frontend.
 - CRUD com LocalStorage
 - Exercícios de manipulação de DOM
 - Estudos sobre funções e arrays
-
-## 🎯 Objetivo
-Conseguir uma oportunidade como desenvolvedor frontend júnior.
