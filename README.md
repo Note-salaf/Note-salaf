@@ -1,13 +1,29 @@
-# Olá 👋
+# 👋 Olá
 
-Sou estudante de Frontend.
+Sou estudante de Desenvolvimento Frontend.
 
-## 🚀 Tecnologias que estou estudando:
+Atualmente estudando:
 - HTML
 - CSS
 - JavaScript
 
-## 📚 Projetos de estudo:
+---
+
+## 📚 Repositórios de Estudo
+
+Organizo meus estudos em pequenos projetos práticos.
+
+### 🧠 JavaScript
+- Manipulação de DOM
+- Arrays (map, filter, forEach)
 - CRUD com LocalStorage
-- Exercícios de manipulação de DOM
-- Estudos sobre funções e arrays
+
+### 🎨 HTML & CSS
+- Estruturação semântica
+- Tabelas
+- Layouts simples
+
+---
+
+## 🎯 Objetivo
+Construir base sólida em JavaScript e Frontend.
